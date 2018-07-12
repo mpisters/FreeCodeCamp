@@ -113,11 +113,9 @@ var watchList = [
 ];
 
 // Add your code below this line
+let filteredList = watchList.filter(movie => movie.Director === "Christopher Nolan")
+let averageRating = filteredList.map(item => parseFloat(item.imdbRating)).reduce((prev, curr) => prev + curr, 0) / filteredList.length;
 
-var averageRating = watchList.filter(movie => movie.Director === "Christopher Nolan").map(item => parseFloat(item.imdbRating)).reduce((a, b) => a+b) / watchList.length -1;
-let numbers = [1,2,3,4,5]
-let sum = numbers.reduce((a,b) => a+b);
-console.log("sum ", sum);
 // Add your code above this line
 
 console.log(averageRating);
