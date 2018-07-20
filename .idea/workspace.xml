@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c7e21b2-1eb9-47ec-b1fb-a407ab190916" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/addTogether.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/binaryAgents.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/everythingBeTrue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/steamrollArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/JavaScript Algorithms and Data Structures Projects/cashRegister.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/JavaScript Algorithms and Data Structures Projects/romanNumeralConverter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/JavaScript Algorithms and Data Structures Projects/telephoneNumberValidator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/smallestCommons.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/smallestCommons.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,38 +19,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sumAllOddFibonacciNumbers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/sumAllOddFibonacciNumbers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sumPrimes.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/sumPrimes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="smallestCommons.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/smallestCommons.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state relative-caret-position="306">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="makeAPerson.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/makeAPerson.js">
+      <file leaf-file-name="romanNumeralConverter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/JavaScript Algorithms and Data Structures Projects/romanNumeralConverter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+            <state relative-caret-position="136">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="telephoneNumberValidator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/JavaScript Algorithms and Data Structures Projects/telephoneNumberValidator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cashRegister.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/JavaScript Algorithms and Data Structures Projects/cashRegister.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="59" column="21" lean-forward="true" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -67,7 +67,7 @@
       <file leaf-file-name="steamrollArray.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/steamrollArray.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-407">
+            <state relative-caret-position="51">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
@@ -91,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addTogether.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="addTogether.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/addTogether.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="153">
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -103,8 +103,8 @@
       <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="143" selection-start-line="7" selection-start-column="143" selection-end-line="7" selection-end-column="143" />
+            <state relative-caret-position="153">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -144,14 +144,17 @@
         <option value="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/whereforeArtThou.js" />
         <option value="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/sumAllOddFibonacciNumbers.js" />
         <option value="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/sumPrimes.js" />
-        <option value="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/smallestCommons.js" />
         <option value="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/makeAPerson.js" />
         <option value="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/maptheDebris.js" />
         <option value="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/steamrollArray.js" />
         <option value="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/binaryAgents.js" />
         <option value="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/everythingBeTrue.js" />
-        <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/addTogether.js" />
+        <option value="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/smallestCommons.js" />
+        <option value="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/JavaScript Algorithms and Data Structures Projects/romanNumeralConverter.js" />
+        <option value="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/JavaScript Algorithms and Data Structures Projects/telephoneNumberValidator.js" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/JavaScript Algorithms and Data Structures Projects/cashRegister.js" />
       </list>
     </option>
   </component>
@@ -171,9 +174,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
     <option name="y" value="30" />
-    <option name="width" value="960" />
-    <option name="height" value="1050" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -198,13 +202,19 @@
               <item name="Javascript Algorithms And Data Structures Certification (300 hours)" type="462c0819:PsiDirectoryNode" />
               <item name="Intermediate Algorithm Scripting" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FreeCodeCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FreeCodeCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Javascript Algorithms And Data Structures Certification (300 hours)" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript Algorithms and Data Structures Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,9 +223,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last.edited.regexp" value="#######" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -233,6 +244,7 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="TestJavascript" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229" />
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -285,15 +297,19 @@
       <workItem from="1531391787981" duration="2953000" />
       <workItem from="1531405382128" duration="4003000" />
       <workItem from="1531475022758" duration="15173000" />
-      <workItem from="1531504902080" duration="5014000" />
+      <workItem from="1531504902080" duration="5777000" />
+      <workItem from="1531948801497" duration="800000" />
+      <workItem from="1531989754236" duration="12443000" />
+      <workItem from="1532075453813" duration="5271000" />
+      <workItem from="1532080779722" duration="3602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27143000" />
+    <option name="totallyTimeSpent" value="50022000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="30" width="960" height="1050" extended-state="0" />
+    <frame x="-7" y="30" width="974" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -306,10 +322,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.332244" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3264865" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25666666" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.202407" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -331,28 +347,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/sumPrimes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/smallestCommons.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/makeAPerson.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/maptheDebris.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -626,13 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/smallestCommons.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/makeAPerson.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -647,24 +640,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/maptheDebris.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/steamrollArray.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-407">
+        <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/binaryAgents.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -675,17 +654,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
+    <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/maptheDebris.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="143" selection-start-line="7" selection-start-column="143" selection-end-line="7" selection-end-column="143" />
+        <state relative-caret-position="187">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/binaryAgents.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/smallestCommons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/JavaScript Algorithms and Data Structures Projects/romanNumeralConverter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/JavaScript Algorithms and Data Structures Projects/telephoneNumberValidator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/Intermediate Algorithm Scripting/addTogether.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="153">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/JavaScript Algorithms and Data Structures Projects/cashRegister.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="59" column="21" lean-forward="true" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
         </state>
       </provider>
     </entry>
