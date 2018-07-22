@@ -1,0 +1,52 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+
+body {
+  border: 0;
+  color: darkslategray;
+  background: #ffffff;
+  font-family: Verdana, monospace;
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container {
+  margin: 50px;
+  padding: 20px;
+  background: #91e0ee;
+  max-width: 55%;
+  border-radius: 2%;
+
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group {
+  margin: 5px;
+  font-weight: 900;
+  display: grid;
+  grid-template-rows: 33% 33% 33%;
+  grid-gap: 10px;
+}
+
+.sub-group{
+  display: grid;
+  grid-template-columns: 70px 200px auto;
+}
+
+.submit{
+  width: 200px;
+  align-self: center;
+}
