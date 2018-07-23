@@ -71,11 +71,18 @@ input, select, textarea {
   flex-direction: row;
   font-weight: normal; }
 
-/* toDo not the first label*/
 #onVacation label:not(:first-child) {
   margin-left: 10px; }
 
 #howLong {
   margin-top: -5px; }
+
+@media (max-width: 600px) {
+  body, html {
+    margin: 0; }
+
+  .container {
+    max-width: fit-content;
+    margin: 0; } }
 
 /*# sourceMappingURL=index.css.map */

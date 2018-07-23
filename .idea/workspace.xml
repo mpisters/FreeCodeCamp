@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4c7e21b2-1eb9-47ec-b1fb-a407ab190916" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/styles/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/styles/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/styles/index.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/styles/index.scss" afterDir="false" />
@@ -57,7 +56,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="680">
               <caret line="40" column="93" selection-start-line="40" selection-start-column="93" selection-end-line="40" selection-end-column="93" />
             </state>
           </provider>
@@ -66,8 +65,8 @@
       <file leaf-file-name="index.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/styles/index.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="755">
-              <caret line="95" column="19" selection-start-line="95" selection-start-column="19" selection-end-line="95" selection-end-column="19" />
+            <state relative-caret-position="483">
+              <caret line="89" selection-start-line="89" selection-end-line="89" />
             </state>
           </provider>
         </entry>
@@ -184,7 +183,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,8 +238,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,12 +330,13 @@
       <workItem from="1532080779722" duration="4837000" />
       <workItem from="1532263066632" duration="2951000" />
       <workItem from="1532284018493" duration="3752000" />
-      <workItem from="1532361265792" duration="2534000" />
+      <workItem from="1532361265792" duration="2691000" />
+      <workItem from="1532376881349" duration="494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60494000" />
+    <option name="totallyTimeSpent" value="61145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="30" width="974" height="1057" extended-state="0" />
@@ -355,7 +355,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3264865" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2155361" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21991247" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -707,8 +707,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/styles/index.css.map">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -719,15 +719,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="680">
           <caret line="40" column="93" selection-start-line="40" selection-start-column="93" selection-end-line="40" selection-end-column="93" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/styles/index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="95" column="19" selection-start-line="95" selection-start-column="19" selection-end-line="95" selection-end-column="19" />
+        <state relative-caret-position="483">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
         </state>
       </provider>
     </entry>
