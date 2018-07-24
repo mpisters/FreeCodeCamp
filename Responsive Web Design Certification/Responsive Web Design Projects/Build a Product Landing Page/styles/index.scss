@@ -1,0 +1,59 @@
+html, body{
+  margin:0;
+}
+
+body {
+  display: grid;
+  grid-template-rows: 100px auto;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  background-color: #89b986;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+li {
+  display: block;
+  padding: 5px;
+  margin: 2px;
+  font-family: Tahoma, monospace;
+  font-size: 14px;
+  font-weight: 900;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+main {
+  display: grid;
+  grid-template-rows: repeat(4, minMax(300px, 1fr)) 200px;
+}
+
+.logo {
+  margin: 5px 10px 5px 10px;
+  width: 130px;
+  height: auto;
+  background-image: url("../paper.png");
+  background-size: cover;
+  font-family: Tahoma, monospace;
+  font-size: 14px;
+  font-weight: 900;
+
+}
+
+.logo p {
+  float: right;
+  margin-top: 20px;
+
+}
+
