@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c7e21b2-1eb9-47ec-b1fb-a407ab190916" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Product Landing Page/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Product Landing Page/styles/index.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/Build a Product Landing Page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Product Landing Page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Product Landing Page/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Product Landing Page/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Product Landing Page/styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Product Landing Page/styles/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Product Landing Page/styles/index.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Product Landing Page/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Product Landing Page/styles/index.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +39,7 @@
       <file leaf-file-name="cashRegister.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/JavaScript Algorithms and Data Structures Projects/cashRegister.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
+            <state relative-caret-position="1122">
               <caret line="66" selection-start-line="66" selection-end-line="66" />
             </state>
           </provider>
@@ -47,8 +48,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Product Landing Page/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+            <state relative-caret-position="-129">
+              <caret line="48" column="44" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -56,8 +57,8 @@
       <file leaf-file-name="index.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Product Landing Page/styles/index.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="43" column="15" lean-forward="true" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+            <state relative-caret-position="657">
+              <caret line="126" column="28" selection-start-line="126" selection-start-column="28" selection-end-line="126" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -65,7 +66,7 @@
       <file leaf-file-name="index.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/styles/index.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1802">
+            <state relative-caret-position="840">
               <caret line="106" column="1" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
             </state>
           </provider>
@@ -111,6 +112,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ø</find>
+      <find>100px</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -178,7 +180,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="y" value="30" />
-    <option name="width" value="974" />
+    <option name="width" value="726" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
@@ -186,6 +188,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,15 +245,6 @@
               <item name="FreeCodeCamp" type="462c0819:PsiDirectoryNode" />
               <item name="Responsive Web Design Certification" type="462c0819:PsiDirectoryNode" />
               <item name="Responsive Web Design Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Build a Product Landing Page" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="index.scss" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="FreeCodeCamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FreeCodeCamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Responsive Web Design Certification" type="462c0819:PsiDirectoryNode" />
-              <item name="Responsive Web Design Projects" type="462c0819:PsiDirectoryNode" />
               <item name="Build a Survey Form" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -264,9 +259,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -364,15 +357,16 @@
       <workItem from="1532284018493" duration="3752000" />
       <workItem from="1532361265792" duration="2691000" />
       <workItem from="1532376881349" duration="2533000" />
-      <workItem from="1532445955227" duration="3288000" />
+      <workItem from="1532445955227" duration="4992000" />
+      <workItem from="1532513927569" duration="6743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66472000" />
+    <option name="totallyTimeSpent" value="74919000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="30" width="974" height="1057" extended-state="0" />
+    <frame x="-7" y="30" width="726" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -388,7 +382,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3264865" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22428884" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22757111" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -403,6 +397,35 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22757111" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32972974" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3264865" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -729,13 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/styles/index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1802">
-          <caret line="106" column="1" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-289">
@@ -745,22 +761,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Javascript Algorithms And Data Structures Certification (300 hours)/JavaScript Algorithms and Data Structures Projects/cashRegister.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
+        <state relative-caret-position="1122">
           <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Survey Form/styles/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="106" column="1" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Product Landing Page/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        <state relative-caret-position="-129">
+          <caret line="48" column="44" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Responsive Web Design Certification/Responsive Web Design Projects/Build a Product Landing Page/styles/index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="43" column="15" lean-forward="true" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+        <state relative-caret-position="657">
+          <caret line="126" column="28" selection-start-line="126" selection-start-column="28" selection-end-line="126" selection-end-column="28" />
         </state>
       </provider>
     </entry>
