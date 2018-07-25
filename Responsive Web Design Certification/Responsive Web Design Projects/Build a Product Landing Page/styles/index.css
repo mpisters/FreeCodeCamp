@@ -31,7 +31,7 @@ a {
 
 main {
   display: grid;
-  grid-template-rows: repeat(4, minMax(300px, 1fr)) 200px; }
+  grid-template-rows: 20% 20% 20% 20% 100px; }
 
 .logo {
   margin: 5px 10px 5px 10px;
@@ -53,6 +53,9 @@ main {
   z-index: 1;
   width: 100%; }
 
+.productInfo {
+  height: fit-content; }
+
 .productInfo h1 {
   text-align: center;
   color: #89b986;
@@ -67,8 +70,7 @@ main {
 
 .howItWorks {
   display: flex;
-  flex-direction: column;
-  margin-top: -50px; }
+  flex-direction: column; }
 
 .howItWorks h1 {
   text-align: center;
@@ -103,8 +105,125 @@ main {
   align-items: center;
   width: 100%; }
 
+.price {
+  display: flex;
+  flex-direction: column; }
+
+.price h2 {
+  text-align: center;
+  color: #89b986;
+  font-size: 2em; }
+
+.pricing {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.pricing div {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  border: white 1px solid;
+  width: 180px;
+  height: 200px;
+  margin: 10px; }
+
+.pricing h3 {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: fit-content;
+  text-align: center;
+  color: darkslategray;
+  background-color: #89b986; }
+
+.pricing li:last-child {
+  padding-top: 15px; }
+
+.pricing li {
+  width: auto;
+  font-weight: normal;
+  padding-left: 15px; }
+
+.pricing ul {
+  margin: 0;
+  padding-left: 0;
+  display: flex;
+  flex-direction: column-reverse;
+  width: auto;
+  height: 100%;
+  background-color: #f0f8ff; }
+
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center; }
+
+.about h1 {
+  text-align: center;
+  color: #89b986;
+  font-size: 2em; }
+
+.about p {
+  text-align: center; }
+
+.signUp {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.signUp h1 {
+  text-align: center;
+  color: #89b986;
+  font-size: 2em; }
+
+.signUp form {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.form-group {
+  margin-bottom: 20px; }
+
+.form-group input {
+  padding: 5px;
+  min-width: 300px; }
+
+.signUp-container {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  background-color: aliceblue;
+  margin: 50px;
+  padding-bottom: 20px; }
+
+.signUp button {
+  width: fit-content;
+  padding: 10px;
+  align-self: center;
+  background-color: #89b986;
+  color: white;
+  border: 0px;
+  height: 40px; }
+
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: darkslategray; }
+
+footer p {
+  color: white; }
+
 @media (max-width: 1000px) {
   .promises {
-    justify-content: flex-start; } }
+    justify-content: flex-start; }
+
+  .howItWorks {
+    margin-top: -250px; } }
 
 /*# sourceMappingURL=index.css.map */
