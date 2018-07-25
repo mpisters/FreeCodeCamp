@@ -1,0 +1,56 @@
+body, html {
+  padding: 0;
+  margin: 0;
+  font-family: "Gill Sans MT", monospace;
+  font-weight: 200;
+  font-size: 14px;
+}
+
+
+span {
+  font-weight: 900;
+}
+header h1 {
+  font-size: 20px;
+  font-weight: 100;
+  color: black;
+}
+
+ a {
+  text-decoration: none;
+   display: block;
+  padding-left: 15px;
+}
+
+ a:not(:first-child){
+   border-top: #6d6d6d 1px solid;
+ }
+
+ a:first-child {
+   padding: 10px;
+ }
+
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+section {
+  margin: 10px;
+  padding: 10px;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  border-right: #6d6d6d 2px solid;
+}
+
+main {
+  margin-left: 200px;
+}
